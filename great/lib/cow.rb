@@ -1,14 +1,13 @@
-class Bird
+class Cow
   def sound
-    "chirp"
+    "moo"
   end
 
   def number_of_legs
-    2
+    4
   end
 
   def number_of_wings
-    2
+    0
   end
 end
-

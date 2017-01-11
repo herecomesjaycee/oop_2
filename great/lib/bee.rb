@@ -1,14 +1,14 @@
-class Bird
+class Bee
   def sound
-    "chirp"
+    "buzz"
   end
 
   def number_of_legs
-    2
+    6
   end
 
   def number_of_wings
-    2
+    4
   end
 end
 
