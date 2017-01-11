@@ -38,3 +38,7 @@ As a user
 So I can identify bees
 I want to look up identifying information about bees
 ```
+### Comment from Jaycee Cheong: 
+The exercise is completed on 10/11/2011 and my pair partner and I discussed the pros and cons of the /terrible and the /great solution to the exercise with our group.
+
+We prefer /great because it has a good division of abstract and concretes, whilst the encapsulation is still intact. 
